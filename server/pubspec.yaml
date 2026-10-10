@@ -1,0 +1,8 @@
+name: pixel_bridge_server
+description: Pixel Bridge chat server
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  mime: ^1.0.0

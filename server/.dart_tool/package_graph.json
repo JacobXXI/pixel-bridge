@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "pixel_bridge_server"
+  ],
+  "packages": [
+    {
+      "name": "pixel_bridge_server",
+      "version": "0.0.0",
+      "dependencies": [
+        "mime"
+      ],
+      "devDependencies": []
+    },
+    {
+      "name": "mime",
+      "version": "1.0.6",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}
